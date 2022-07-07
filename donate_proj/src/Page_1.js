@@ -6,7 +6,7 @@ const Page_1 = () => {
    
    
 
-   <section className='section3'>
+   <section className='section3 reverse'>
    <div className='left50percent'>
     <dev className="left">
         <h1 className='lives_heading'>Their lives depend on your donation</h1>
