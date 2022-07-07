@@ -1,5 +1,3 @@
-
-
 * {
     padding: 0px;
     margin: 0px auto;
@@ -226,8 +224,6 @@ margin-top: 150px;
  }
  
 
- 
-
  .shift_left_image{
     position: relative;
     width: 50%;
@@ -261,60 +257,9 @@ margin-top: 150px;
    
     margin-top: 90px;
    
-    width: 80%;
-    
-    
-    
-    
+    width: 80%;   
 
  }
-
-
- .left50percent{
-   width: 50%;
-   margin-left: 50px;
- }
-
- .right50percent{
-   width: 50%;
-   margin-right: 50px;
- }
- 
- .section3{
-   height: 100vh;
-   width: 100%;
-   display: flex;
-   justify-content: space-around;
-
- }
-
- .text_btn2{
-    padding: 15px 60px;
-    background-color:#FF5959;
-    font-size: 18px;
-    color: white;
-    margin-top: 50px;
-    border-radius: 6px;
- }
-
- .left{
-    text-align: left;
-    width: 70%;
-    margin-top: 25vh;
-    position: relative;
-
-    
-    
-
-
-    
- }
-
- 
-
- 
-    
-
 
 .lives_heading{
    font-size: 40px;
